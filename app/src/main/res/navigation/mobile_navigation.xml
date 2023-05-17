@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_principal">
+
+    <fragment
+        android:id="@+id/nav_principal"
+        android:name="lucas.curso.consultatm.ui.principal.PrincipalFragment"
+        android:label="@string/menu_principal"
+        tools:layout="@layout/fragment_principal" />
+
+    <fragment
+        android:id="@+id/nav_cliente"
+        android:name="lucas.curso.consultatm.ui.cliente.ClientesFragment"
+        android:label="@string/menu_cliente"
+        tools:layout="@layout/fragment_clientes" />
+
+    <fragment
+        android:id="@+id/nav_servicos"
+        android:name="lucas.curso.consultatm.ui.servicos.ServicosFragment"
+        android:label="@string/menu_servicos"
+        tools:layout="@layout/fragment_servicos" />
+
+    <fragment
+        android:id="@+id/nav_conato"
+        android:name="lucas.curso.consultatm.ui.contato.ContatoFragment"
+        android:label="@string/menu_contato"
+        tools:layout="@layout/fragment_contato" />
+
+    <fragment
+        android:id="@+id/nav_info"
+        android:name="lucas.curso.consultatm.ui.info.InfoFragment"
+        android:label="@string/menu_info"
+        tools:layout="@layout/fragment_info" />
+</navigation>

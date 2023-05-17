@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ConsultATM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="div_principal">Conta</string>
+    <string name="menu_principal">Principal</string>
+    <string name="menu_cliente">Cliente</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_info">Informações</string>
+    <string name="div_contato">Entre em contato</string>
+
+    <string name="tituloNav">ATM Consultoria</string>
+    <string name="emailNav">atm@gmail.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="txt_titulo_servicos">Sistema de gestão de qualidade</string>
+    <string name="txt_txt_servicos">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam arcu enim, pretium non est et, iaculis accumsan justo. Nam in ex non nunc condimentum faucibus. Mauris nulla enim, maximus sed nisl et, molestie posuere nisl. Duis mollis eget ex non facilisis. Vestibulum tortor eros, dictum vel metus ut, hendrerit vehicula risus. Ut varius magna ut enim dictum, vulputate rhoncus ex scelerisque. Donec fringilla velit ac elit sodales malesuada ac in eros. Aenean eget quam mi. Praesent nec erat et est condimentum accumsan ac id nibh. Proin eu tempor mauris, a auctor odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</string>
+    <string name="txt_infor_servicos">Indicadores de desempenho</string>
+    <string name="txt_txt_info_servicos">Etiam hendrerit, odio a maximus porttitor, turpis ante posuere sapien, ut fermentum nibh purus vel odio. Donec ac sapien quis sem imperdiet tempor. Fusce iaculis velit eget lobortis ultrices. Aliquam nec justo sit amet est interdum faucibus eget a urna. Proin dapibus porttitor eros et iaculis. Donec efficitur quam sed lacus lacinia, eu gravida mauris convallis. Phasellus tempus ante eu metus malesuada posuere.</string>
+
+    <string name="txt_titulo_clientes">Clientes</string>
+    <string name="txt_clientes">Praesent pellentesque finibus iaculis. Nulla dignissim vel lectus vitae pulvinar. In malesuada elit vitae porttitor convallis. Fusce malesuada augue quis est scelerisque feugiat. Vestibulum sit amet metus tristique, malesuada mauris non, laoreet metus. Etiam non scelerisque nisl. In suscipit tortor sit amet mauris sollicitudin suscipit. Morbi ac mattis tellus. Vivamus vitae metus sit amet sem porttitor ornare vitae eu nisi.</string>
+    <string name="cielo">Cielo</string>
+    <string name="braskem">Braskem</string>
+    <string name="gerdau">Gerdau</string>
+    <string name="embraer">Embraer</string>
+    <string name="natura">Natura</string>
+    <string name="americas">Lojas Americanas</string>
+</resources>
